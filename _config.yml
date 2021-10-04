@@ -20,7 +20,7 @@ description: Welcome to the GaffHub! here I will post updates on my projects and
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: Gaffclant
-  name: Gaffclant 
+  name: gaff 
   picture: /assets/profile-pic.png
 github_username: gaffclant 
 logo: /assets/logo.png # path of site logo, e.g. "/assets/images/logo.png"
