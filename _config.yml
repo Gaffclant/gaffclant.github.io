@@ -16,14 +16,7 @@
 lang: en-US
 title: GaffHub
 email: gaffclant@gmail.com
-description: Gaffclants Blog
-image:  /assets/home.jpg # URL to a hero image associated with the post (e.g., /assets/page-pic.jpg)
-actions:
-  - label: "Thanks to Patrick Tomasso for the image"
-    icon: icon-arrow-right  # references name of svg icon, see full list below
-    url: "https://unsplash.com/@impatrickt"
-
-
+description: Gaffclants Blog 
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://gaffclant.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: #Gaffclant
