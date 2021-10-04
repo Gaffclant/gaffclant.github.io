@@ -9,8 +9,7 @@ actions:
     url: "https://github.com/gaffclant/gaffclant.github.io"
 
 image: /assets/posts/whatIsThisSite.jpg
-author:
-  name: Gaffclant
+comments: true
 ---
 # Welcome to GaffHub... good luck escaping
 

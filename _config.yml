@@ -17,6 +17,13 @@ lang: en-US
 title: GaffHub
 email: gaffclant@gmail.com
 description: Gaffclants Blog
+image:  /assets/home.jpg # URL to a hero image associated with the post (e.g., /assets/page-pic.jpg)
+actions:
+  - label: "Thanks to Patrick Tomasso for the image"
+    icon: icon-arrow-right  # references name of svg icon, see full list below
+    url: "https://unsplash.com/@impatrickt"
+
+
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://gaffclant.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: #Gaffclant
@@ -32,6 +39,9 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
+
+disqus:
+  shortname: my_disqus_shortname
 
 # Build settings
 markdown: kramdown
