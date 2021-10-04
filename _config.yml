@@ -37,7 +37,6 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
@@ -73,6 +72,8 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 # Front Matter Defaults
 defaults:
